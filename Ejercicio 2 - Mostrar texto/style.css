@@ -1,0 +1,18 @@
+.cuadrado {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+  font-size: 24px;
+}
+
+input{
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
